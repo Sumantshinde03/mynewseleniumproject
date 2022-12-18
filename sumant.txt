@@ -1,0 +1,11 @@
+permisiion form use updates related to that app when users is not using 
+
+pop up 
+fileupload
+inspect
+driver id find element method
+download auto it 
+open scite
+Autoithelp
+Autoit3windowsinfo
+aux64 
