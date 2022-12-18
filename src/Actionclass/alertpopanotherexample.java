@@ -14,6 +14,7 @@ public class alertpopanotherexample {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get("https://letcode.in/test");
+		
 
 	}
 
